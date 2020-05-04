@@ -1,0 +1,28 @@
+{
+  "name": "limaMoveis",
+  "version": "1.0.0",
+  "description": "Projeto de estudo em gastby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcsoares10/limaMoveis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcsoares10/limaMoveis/issues"
+  },
+  "homepage": "https://github.com/lcsoares10/limaMoveis#readme",
+  "dependencies": {
+    "gatsby": "^2.21.9",
+    "gatsby-plugin-postcss": "^2.3.0",
+    "gatsby-plugin-purgecss": "^5.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.4.4"
+  }
+}
